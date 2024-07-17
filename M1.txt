@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/374.0.0.20.109;FBBV/381462200;FBDM/{density=2.0,width=720,height=1456};FBLC/en_US;FBRV/382083935;FBCR/1010;FBMF/Green;FBBD/Green;FBPN/com.facebook.katana;FBDV/GREEN 2020;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+FBAN/EMA;FBAV/334.0.0.96.38;FBBV/932319207;FBRV/0;FBPN/com.facebook.lite;FBLC/ne_NP;FBMF/Jio;FBBD/Jio;FBDV/Realme C53;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
