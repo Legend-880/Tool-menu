@@ -1,1 +1,1 @@
-FBAN/EMA;FBAV/263.0.0.64.46;FBBV/451750747;FBRV/0;FBPN/com.facebook.lite;FBLC/ms_MY;FBMF/Jio;FBBD/Jio;FBDV/Realme C53;FBSV/9;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/332.0.0.43.93;FBBV/924695626;FBRV/0;FBPN/com.facebook.katana;FBLC/da_DK;FBMF/ROBI;FBBD/ROBI;FBDV/WALTON;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
