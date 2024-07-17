@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/130.0.0.22.11;FBBV/309600269;FBRV/0;FBPN/com.facebook.katana;FBLC/id_ID;FBMF/Vodafone;FBBD/Vodafone;FBDV/TECNO SPARK 20 Pro;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/EMA;FBAV/263.0.0.64.46;FBBV/451750747;FBRV/0;FBPN/com.facebook.lite;FBLC/ms_MY;FBMF/Jio;FBBD/Jio;FBDV/Realme C53;FBSV/9;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
