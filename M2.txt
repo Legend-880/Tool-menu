@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/332.0.0.43.93;FBBV/924695626;FBRV/0;FBPN/com.facebook.katana;FBLC/da_DK;FBMF/ROBI;FBBD/ROBI;FBDV/WALTON;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/141.0.0.59.31;FBBV/205391470;FBRV/0;FBPN/com.facebook.katana;FBLC/hr_HR;FBMF/ROBI;FBBD/ROBI;FBDV/Tecno Spark 20C;FBSV/11;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
