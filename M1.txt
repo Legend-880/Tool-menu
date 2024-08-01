@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/443.0.0.12.31;FBBV/330347354;FBRV/0;FBPN/com.facebook.katana;FBLC/zh_CN;FBMF/JIO 5G;FBBD/JIO 5G;FBDV/Lava O2;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/321.0.0.77.74;FBBV/932533999;FBRV/0;FBPN/com.facebook.katana;FBLC/sr_RS;FBMF/BANGLALINK;FBBD/BANGLALINK;FBDV/Tecno Spark 20C;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
