@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/141.0.0.59.31;FBBV/205391470;FBRV/0;FBPN/com.facebook.katana;FBLC/hr_HR;FBMF/ROBI;FBBD/ROBI;FBDV/Tecno Spark 20C;FBSV/11;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/EMA;FBAV/274.0.0.85.35;FBBV/617049437;FBRV/0;FBPN/com.facebook.lite;FBLC/fr_CA;FBMF/Teletalk;FBBD/Teletalk;FBDV/Samsung Galaxy Duos;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
