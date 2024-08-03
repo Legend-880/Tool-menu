@@ -1,1 +1,1 @@
-[FBAN/EMA;FBAV/274.0.0.85.35;FBBV/617049437;FBRV/0;FBPN/com.facebook.lite;FBLC/fr_CA;FBMF/Teletalk;FBBD/Teletalk;FBDV/Samsung Galaxy Duos;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/119.0.0.15.94;FBBV/226687141;FBRV/0;FBPN/com.facebook.katana;FBLC/ca_ES;FBMF/GRAMEENPHONE;FBBD/GRAMEENPHONE;FBDV/Symphony Helio 50;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
