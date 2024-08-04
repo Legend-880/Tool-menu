@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/119.0.0.15.94;FBBV/226687141;FBRV/0;FBPN/com.facebook.katana;FBLC/ca_ES;FBMF/GRAMEENPHONE;FBBD/GRAMEENPHONE;FBDV/Symphony Helio 50;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/417.0.0.54.72;FBBV/826545799;FBRV/0;FBPN/com.facebook.katana;FBLC/hi_IN;FBMF/ROBI;FBBD/ROBI;FBDV/Samsung Galaxy A12;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
