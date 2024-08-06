@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/330.0.0.31.120;FBBV/308809011;FBDM/{density=3.0,width=1080,height=2130};FBLC/cs_CZ;FBRV/310753832;FBCR/T-Mobile CZ;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/PAR-LX1;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+FBAN/FB4A;FBAV/329.0.0.63.77;FBBV/209750412;FBRV/0;FBPN/com.facebook.katana;FBLC/it_IT;FBMF/banglalink;FBBD/banglalink;FBDV/Tecno Spark 5 Pro;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
