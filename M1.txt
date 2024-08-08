@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/456.0.0.39.90;FBBV/271127351;FBDM/{density=1.9125,width=720,height=1400};FBLC/en_US;FBRV/272210345;FBCR/Boost Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g24;FBSV/10;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
+FBAN/FB4A;FBAV/328.0.0.78.96;FBBV/901213852;FBRV/0;FBPN/com.facebook.katana;FBLC/es_LA;FBMF/grameenphone;FBBD/grameenphone;FBDV/Xiaomi Redmi A3;FBSV/12;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
