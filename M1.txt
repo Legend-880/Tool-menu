@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/398.0.0.65.22;FBBV/261430569;FBRV/0;FBPN/com.facebook.katana;FBLC/es_LA;FBMF/ROBI;FBBD/ROBI;FBDV/Walton Orbit Y12;FBSV/5;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/456.0.0.39.90;FBBV/271127351;FBDM/{density=1.9125,width=720,height=1400};FBLC/en_US;FBRV/272210345;FBCR/Boost Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g24;FBSV/10;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
