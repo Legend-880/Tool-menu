@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/238.0.0.43.61;FBBV/744906367;FBRV/0;FBPN/com.facebook.katana;FBLC/sr_RS;FBMF/grameenphone;FBBD/grameenphone;FBDV/Symphony Z70;FBSV/9;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/396.0.0.21.104;FBBV/30529816;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/MTN NG;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X665E;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
