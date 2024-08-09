@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/328.0.0.78.96;FBBV/901213852;FBRV/0;FBPN/com.facebook.katana;FBLC/es_LA;FBMF/grameenphone;FBBD/grameenphone;FBDV/Xiaomi Redmi A3;FBSV/12;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/238.0.0.43.61;FBBV/744906367;FBRV/0;FBPN/com.facebook.katana;FBLC/sr_RS;FBMF/grameenphone;FBBD/grameenphone;FBDV/Symphony Z70;FBSV/9;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
