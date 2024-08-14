@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/314.0.0.21.78;FBBV/812262651;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Samsung;FBBD/Samsung;FBDV/Honor 10 Lite;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/465.0.0.63.83;FBBV/367653576;FBDM/{density=2.25,width=720,height=1400};FBLC/en_Qaau_US;FBRV/369757394;FBCR/Vi India;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX3761;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
