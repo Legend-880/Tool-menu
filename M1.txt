@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/405.1.0.28.72;FBPN/com.facebook.katana;FBLC/en_US;FBBV/188827991;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/itel S11Plus;FBSV/6.0;FBCA/x86:armeabi-v7a;FBDM/{density=1.5,width=720,height=1244};FB_FW/1;FBRV/190301973;]
+[FBAN/FB4A;FBAV/469.2.0.51.80;FBBV/332957647;FBDM/{density=2.0,width=720,height=1406};FBLC/ru_RU;FBRV/334763932;FBCR/MTS RUS;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2333;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
