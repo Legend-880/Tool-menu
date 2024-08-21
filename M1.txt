@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/436.0.0.35.101;FBBV/367653576;FBDM/{density=2.25,width=720,height=1400};FBLC/en_Qaau_US;FBRV/369757394;FBCR/Vi India;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX3624;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+FBAN/FB4A;FBAV/338.0.0.40.75;FBBV/266469025;FBRV/0;FBPN/com.facebook.katana;FBLC/es_LA;FBMF/Samsung;FBBD/Samsung;FBDV/Itel S23;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
