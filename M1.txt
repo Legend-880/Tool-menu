@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/194.0.0.51.79;FBBV/779374623;FBRV/0;FBPN/com.facebook.katana;FBLC/en_GB;FBMF/Samsung;FBBD/Samsung;FBDV/Lava Yuva Star;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/174.0.0.69.91;FBBV/562914274;FBRV/0;FBPN/com.facebook.katana;FBLC/sr_RS;FBMF/Samsung;FBBD/Samsung;FBDV/Tecno Spark 6;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
