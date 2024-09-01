@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/424.0.0.21.75;FBBV/277444756;FBDM/{density=3.0,width=1080,height=1920};FBLC/de_DE;FBRV/279865282;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M045F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/426.0.0.44.29;FBBV/571405188;FBRV/0;FBPN/com.facebook.katana;FBLC/hr_HR;FBMF/Bangalink_Airtel;FBBD/Bangalink_Airtel;FBDV/Samsung Galaxy M51;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
