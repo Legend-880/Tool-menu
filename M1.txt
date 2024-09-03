@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/332.0.0.20.111;FBBV/271127351;FBDM/{density=1.9125,width=720,height=1400};FBLC/en_US;FBRV/272210345;FBCR/Boost Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(8) power;FBSV/10;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
+Mozilla/5.0 (Linux; Android 13; Lava Yuva Star Build/TP1A.876363.028; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.2413.909 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/399.0.0.15.74;]
