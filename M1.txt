@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/263.0.0.25.50;FBBV/186792450;FBRV/0;FBPN/com.facebook.katana;FBLC/ro_RO;FBMF/Samsung;FBBD/Samsung;FBDV/Tecno Spark 5 Pro;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/381.0.0.81.35;FBBV/196614197;FBRV/0;FBPN/com.facebook.katana;FBLC/bn_IN;FBMF/Samsung;FBBD/Samsung;FBDV/Tecno Spark Go 2024;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
