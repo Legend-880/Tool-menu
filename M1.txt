@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/230.0.0.81.36;FBBV/125092764;FBRV/0;FBPN/com.facebook.katana;FBLC/hr_HR;FBMF/Samsung;FBBD/Samsung;FBDV/Symphony Helio 30;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/422.0.0.26.76;FBBV/30529816;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/MTN NG;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X669;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
