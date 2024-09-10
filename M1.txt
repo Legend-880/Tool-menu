@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/451.0.0.45.109;FBBV/30034644;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Etisalat NG;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KJ6;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+FBAN/FB4A;FBAV/362.0.0.19.24;FBBV/495476409;FBRV/0;FBPN/com.facebook.katana;FBLC/fa_IR;FBMF/Samsung;FBBD/Samsung;FBDV/Itel S23;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
