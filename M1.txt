@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/337.0.0.83.62;FBBV/365433770;FBRV/0;FBPN/com.facebook.katana;FBLC/sl_SI;FBMF/Samsung;FBBD/Samsung;FBDV/Vivo Y18e;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/117.0.0.40.15;FBBV/802533263;FBRV/0;FBPN/com.facebook.katana;FBLC/ko_KR;FBMF/Samsung;FBBD/Samsung;FBDV/Vivo Y02A;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
