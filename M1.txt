@@ -1,1 +1,1 @@
-Mozilla/5.0 (Linux; Android 13; Symphony Innova 30 Build/TQ2A.163190.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.6120.765 Mobile Safari/537.36
+FBAN/FB4A;FBAV/404.0.0.68.84;FBBV/126292768;FBRV/0;FBPN/com.facebook.katana;FBLC/fr_FR;FBMF/Samsung;FBBD/Samsung;FBDV/Symphony Z70;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
