@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/347.0.0.95.59;FBBV/819460049;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Samsung;FBBD/Samsung;FBDV/Tecno Spark Go 2023;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Mozilla/5.0 (Linux; Android 10; Samsung A51 Build/QCOS30.85-18-6; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.185 Mobile Safari/537.36
